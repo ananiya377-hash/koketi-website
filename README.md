@@ -42,3 +42,4 @@ it's a small change once you've picked one.
 All the page content and copy lives in `src/App.jsx` — services, About text,
 contact details, etc. Just edit the strings directly.
 
+
